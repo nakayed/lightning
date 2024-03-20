@@ -1,4 +1,4 @@
-# Lightning: A Reconfigurable Photonic-Electronic SmartNIC for Fast and Energy-Efficient Inference
+oi# Lightning: A Reconfigurable iPhotonic-Electronic SmartNIC for Fast and Energy-Efficient Inference
 
 [![DOI:10.1145/3603269.3604821](http://img.shields.io/badge/DOI-10.1145/3603269.3604821-69B7DB.svg)](https://doi.org/10.1145/3603269.3604821)
 [![DNN build](https://github.com/hipersys-team/lightning/actions/workflows/dnn_single_core.yml/badge.svg)](https://github.com/hipersys-team/lightning/actions/workflows/dnn_single_core.yml)
